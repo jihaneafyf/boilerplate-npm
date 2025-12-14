@@ -11,7 +11,7 @@
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "license": "ISC",
-  "author": "jihane",
+  "author": "jihan afyf",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
